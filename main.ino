@@ -11,8 +11,8 @@ uint8_t temprature_sens_read();
 uint8_t temprature_sens_read();
 
 // Replace with your network credentials
-const char* ssid = "Skynet";
-const char* password = "papadeltas123";
+const char* ssid = "YOURSSID";
+const char* password = "YOURPASS";
 
 // Set web server port number to 80
 WiFiServer server(80);
